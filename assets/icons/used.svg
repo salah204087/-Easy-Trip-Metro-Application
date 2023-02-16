@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+<title>BKV</title>
+<circle cx="248" cy="248" r="171"/>
+<g fill="none" stroke="#000" stroke-width="22.5">
+<circle cx="247.5" cy="247.5" r="236.25"/>
+<path d="M331.875,324V446.625H247.5M382.5,270 229.5,117M237.25,133.5V237.25H133.5M117,229.5 306,416.25" stroke="#fff" stroke-width="49.5"/>
+<path d="M367.825,342V450"/>
+</g></svg>

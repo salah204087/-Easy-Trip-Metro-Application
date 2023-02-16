@@ -1,16 +1,4 @@
 # metro_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cairo, the capital of Egypt, is the most populated city in Africa, and as a result, it has the most crowded metro system on the continent, with an average of 3.5 million daily riders. The Cairo Metro will be busier than it can handle given the growth rate of population. In order to meet the potential demand that may arise in the upcoming few years, the government is already striving to improve the metro's capacities through the acquisition of additional trains and the rehabilitation of the existed old trains.
+Our plan was to estimate the number of crowds that will increase in the upcoming years and plan the operation of metro trains, which couldn’t be accomplished due to data unavailability, so we changed our plans to help both sides, the riders, and the metro administration. We wanted to let the regular rider be a decision-maker on his own by giving him insights about the metro rush to let it easier to him to choose between the metro or other transportations based on the estimated rush. On the other hand, we wanted to give the metro administration a sustainable method to get metro insights. So, to assist both sides we created a mobile application that helps the normal user in different ways, he can use the application to know the source station location, the rush percentage for this station based on our calculations, the estimated rush for the line he will be in, and he can use QR code that will be used instead of using his subscription card. On the other hand, we will let the admin have several features, the admin will have the ability to send a custom message to the application users as a notification to advise for any emergencies or unpredicted events, and he can see insights about the metro in previous intervals as he wants it may be a week, month, or even a year. He can use this feature for a specific line or all of the three lines.
+We employed a variety of tools to accomplish our primary objective, with Flutter serving as the major one. Google developed the open-source UI software development kit known as Flutter. It is used to develop cross-platform software from a single codebase for Google Fuchsia, Android, iOS, Linux, macOS, Windows, and the web. The primary technique we used to sort and clean the data was Microsoft Excel. Then we used the JSON format for creating the database. We worked using Firebase, a Google-developed platform that supports app development generally and offers a variety of features for developing mobile applications.
